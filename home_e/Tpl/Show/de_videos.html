@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <title></title>
+<style type="text/css">
+	ul{
+		list-style-type:none;
+		font-size:14px;
+	}
+	li a{
+		font-size:14px;	
+	}
+</style>
+ </HEAD>
+
+ <BODY>
+  {$cn}
+  <ul>
+        <volist name="film_list" id="vo">
+        <li><a href="__URL__/show_video/title/{$vo['title']}">{$vo['title']}</a></li>
+    
+        </volist>
+  </ul>
+
+ </BODY>
+</HTML>

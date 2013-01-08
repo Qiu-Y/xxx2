@@ -1,0 +1,92 @@
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001595s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.016351s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.016985s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | SQL: SELECT `id`,`subject`,`message`,`createtime` FROM `think_article` ORDER BY id desc  [ RunTime:0.001050s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001298s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001369s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run ParseTemplate Behavior [ RunTime:0.028719s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028831s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run ContentReplace Behavior [ RunTime:0.000865s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run TokenBuild Behavior [ RunTime:0.001172s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000559s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000912s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003697s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001012s ]
+[ 2012-08-15T20:26:46+08:00 ] /xxx/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001079s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001008s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001129s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.051191s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | SQL: SELECT * FROM `think_admin` LIMIT 1   [ RunTime:0.001065s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001149s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001249s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | NOTIC: [8] Undefined variable: news_list d046431aa157c89f3a1c30c426be003b.php 第 8 行.
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017957s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018043s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run ContentReplace Behavior [ RunTime:0.000578s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run TokenBuild Behavior [ RunTime:0.000709s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000567s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000665s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002720s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 120 行.
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 121 行.
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 122 行.
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000661s ]
+[ 2012-08-15T20:33:50+08:00 ] /xxx/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000735s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000893s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000995s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.002089s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | SQL: SELECT * FROM `think_admin` LIMIT 1   [ RunTime:0.000438s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000963s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001036s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | NOTIC: [8] Undefined variable: news_list d046431aa157c89f3a1c30c426be003b.php 第 8 行.
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run ParseTemplate Behavior [ RunTime:0.010188s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010266s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run ContentReplace Behavior [ RunTime:0.000524s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run TokenBuild Behavior [ RunTime:0.000523s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000375s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000627s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002224s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 120 行.
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 121 行.
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 122 行.
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000598s ]
+[ 2012-08-15T20:34:29+08:00 ] /xxx/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000660s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001525s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001644s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.002787s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | SQL: SELECT * FROM `think_admin` LIMIT 1   [ RunTime:0.000552s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001056s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001151s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | NOTIC: [8] Undefined variable: news_list d046431aa157c89f3a1c30c426be003b.php 第 8 行.
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015097s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015177s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run ContentReplace Behavior [ RunTime:0.000566s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run TokenBuild Behavior [ RunTime:0.000673s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000393s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000637s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002450s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 120 行.
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 121 行.
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx\ThinkPHP\Common\functions.php:95) View.class.php 第 122 行.
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000594s ]
+[ 2012-08-15T20:39:03+08:00 ] /xxx/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000655s ]

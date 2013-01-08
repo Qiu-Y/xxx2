@@ -1,0 +1,51 @@
+[ 2012-09-16T14:00:25+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-09-16T14:00:25+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.015562s ]
+[ 2012-09-16T14:00:25+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.024403s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.171033s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.009160s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.054367s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.015648s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.068832s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi`  [ RunTime:0.003268s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.041173s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.041331s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.112548s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.112721s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.001369s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.001751s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001115s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001570s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006123s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001469s ]
+[ 2012-09-16T14:00:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001583s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ route_check ] --START--
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run CheckRoute Behavior [ RunTime:0.001421s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ route_check ] --END-- [ RunTime:0.001546s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ app_begin ] --START--
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000978s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001071s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002348s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000886s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002608s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000614s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_template ] --START--
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run LocationTemplate Behavior [ RunTime:0.019118s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_template ] --END-- [ RunTime:0.019251s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_parse ] --START--
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | NOTIC: [8] Undefined variable: title 6833fa2ead415a5b4ec6ad6a5c246f7d.php 第 7 行.
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run ParseTemplate Behavior [ RunTime:0.058386s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_parse ] --END-- [ RunTime:0.058472s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_filter ] --START--
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run ContentReplace Behavior [ RunTime:0.000657s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run TokenBuild Behavior [ RunTime:0.000892s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000560s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run ShowRuntime Behavior [ RunTime:0.000797s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003111s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_end ] --START--
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Run ShowPageTrace Behavior [ RunTime:0.001882s ]
+[ 2012-09-16T14:13:20+08:00 ] /xxx2/index.php/Index/index_pwd | INFO: Tag[ view_end ] --END-- [ RunTime:0.001986s ]

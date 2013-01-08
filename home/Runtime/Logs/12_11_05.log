@@ -1,0 +1,58 @@
+[ 2012-11-05T13:19:37+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-11-05T13:19:37+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.032710s ]
+[ 2012-11-05T13:19:37+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.052792s ]
+[ 2012-11-05T13:19:37+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.136224s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.035313s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.124305s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.028627s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.091551s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.000593s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.078475s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.078582s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.143526s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.143662s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.008207s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.012280s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.009703s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.006111s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.036596s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.014901s ]
+[ 2012-11-05T13:19:38+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.014995s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000883s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001001s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002568s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.000414s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.003809s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.001172s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.008373s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.002657s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001001s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001187s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026391s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026543s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000674s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000737s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000385s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000645s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002631s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000658s ]
+[ 2012-11-05T13:20:37+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000725s ]

@@ -1,0 +1,1152 @@
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000602s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000702s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.143847s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.099867s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.087228s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.112419s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.125213s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.001878s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001133s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001220s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.046571s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.046689s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000408s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000460s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000248s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000511s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001804s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000453s ]
+[ 2012-08-27T09:02:17+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000519s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000590s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000692s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.035336s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000380s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002170s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000649s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002143s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000392s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000776s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000846s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011457s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011562s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000394s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000510s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000250s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001834s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000451s ]
+[ 2012-08-27T09:03:15+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000512s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000868s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000970s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002385s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000322s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002494s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000571s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002238s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000359s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000907s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000977s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019542s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019673s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000585s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000711s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000396s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000634s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002504s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000593s ]
+[ 2012-08-27T09:05:01+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000656s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001095s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001231s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002413s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000392s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002140s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000381s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002165s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000316s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000906s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000977s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011993s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012093s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000643s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000675s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000416s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000648s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002582s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000678s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000746s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000729s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000852s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002388s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001019s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002312s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000399s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002181s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000383s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000493s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000560s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.013111s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013293s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000464s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000461s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000252s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000507s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001859s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000459s ]
+[ 2012-08-27T09:05:28+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000523s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000684s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002290s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000922s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002076s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000411s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002116s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000345s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000494s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000561s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011077s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011183s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000396s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000444s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000247s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000502s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001758s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000451s ]
+[ 2012-08-27T09:05:29+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000513s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001005s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001298s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002510s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000515s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002054s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000482s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002102s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000428s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000917s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000987s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.012210s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012312s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000558s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000581s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000388s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000633s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002334s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000588s ]
+[ 2012-08-27T09:10:10+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000657s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000872s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000974s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002204s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000563s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001856s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000575s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001931s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000535s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000903s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000972s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.012206s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012317s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000568s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000583s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000384s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000642s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002359s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000590s ]
+[ 2012-08-27T09:11:59+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000650s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000867s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000969s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002591s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000412s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002148s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000362s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002282s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000399s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000913s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000985s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011883s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011992s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000561s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000583s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000383s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000634s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002334s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000593s ]
+[ 2012-08-27T09:13:25+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000657s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000584s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000680s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002655s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000602s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.003108s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000885s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002425s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000349s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000504s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000572s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011150s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011250s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000398s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000248s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000501s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001757s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000451s ]
+[ 2012-08-27T09:13:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000512s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000882s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000981s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002507s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000931s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002347s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000768s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001964s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000491s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000929s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000998s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011885s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011984s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000545s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000657s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000377s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000647s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002410s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000685s ]
+[ 2012-08-27T09:13:58+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000761s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000586s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000683s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002680s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000449s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002046s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000457s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002201s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000386s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000602s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000670s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011041s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011141s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000383s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000444s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001734s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000447s ]
+[ 2012-08-27T09:13:59+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000508s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000876s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000976s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.024807s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000717s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002203s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000590s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002246s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000562s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000892s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000962s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011899s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011999s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000549s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000583s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000378s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000639s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002331s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000590s ]
+[ 2012-08-27T09:14:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000653s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000588s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000687s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002336s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000623s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002169s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000907s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002129s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000357s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000488s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000556s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011184s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011283s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000395s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000446s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000239s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000504s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001753s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000460s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000523s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000696s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000821s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002457s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000604s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002050s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000542s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.017584s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000799s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000495s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000563s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011246s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011350s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000389s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000445s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000239s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000498s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001740s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000450s ]
+[ 2012-08-27T09:14:27+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000512s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000687s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002287s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000551s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002008s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000532s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002048s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000445s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000487s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000553s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011323s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011438s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000982s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000698s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000290s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000549s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002738s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000461s ]
+[ 2012-08-27T09:14:36+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000523s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000867s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000966s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002201s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000532s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001917s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000513s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.086705s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000483s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000894s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000964s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011872s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011971s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000535s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000578s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000380s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000629s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002302s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000592s ]
+[ 2012-08-27T09:14:43+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000654s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000588s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000690s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002689s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000483s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001938s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000482s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002146s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000355s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000494s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000562s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011206s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011307s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000393s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000445s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000497s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001745s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000448s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000510s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000640s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000756s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002445s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000682s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001879s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000566s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001913s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000523s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000481s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000549s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011006s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011104s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000381s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000441s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000238s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000494s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001721s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000450s ]
+[ 2012-08-27T09:14:51+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000511s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000597s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000701s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002150s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000970s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002311s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000497s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002021s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000531s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run LocationTemplate Behavior [ RunTime:0.000489s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_template ] --END-- [ RunTime:0.000557s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run ParseTemplate Behavior [ RunTime:0.011223s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011325s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run ContentReplace Behavior [ RunTime:0.000386s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run TokenBuild Behavior [ RunTime:0.000450s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001733s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Run ShowPageTrace Behavior [ RunTime:0.000441s ]
+[ 2012-08-27T09:14:53+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=a304877b95586d91a1c222bdc41c3c40_2c94e764f4cdcb0b42136d5ce30154fb | INFO: Tag[ view_end ] --END-- [ RunTime:0.000502s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000581s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000687s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002446s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001051s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.010049s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000399s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002115s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000336s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000490s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000558s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011065s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011174s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000387s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000458s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001738s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000492s ]
+[ 2012-08-27T09:14:55+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000573s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000688s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002255s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000502s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001919s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000514s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001939s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000458s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000496s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000565s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011111s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011213s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000390s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000445s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000489s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001735s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000448s ]
+[ 2012-08-27T09:15:20+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000511s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000581s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000678s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002313s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000520s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001942s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000546s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002334s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000330s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000491s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000559s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011044s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011143s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000379s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000446s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000484s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001718s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000441s ]
+[ 2012-08-27T09:15:59+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000504s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000582s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000681s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002415s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000643s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001975s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000579s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001993s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000506s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000488s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000555s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011409s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011516s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000393s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000449s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000486s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001746s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000459s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000520s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000585s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000682s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002290s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000575s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002039s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000570s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002064s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000570s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000530s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000604s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011184s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011285s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000387s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000446s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000483s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001727s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000448s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000512s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000590s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000688s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002452s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000945s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002101s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000536s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002063s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000536s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000498s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000566s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011047s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011146s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000390s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000443s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000484s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001730s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000446s ]
+[ 2012-08-27T09:16:00+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000508s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000895s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001006s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002359s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000533s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001939s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000599s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002112s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000445s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000900s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000970s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.012518s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012630s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000569s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000584s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000390s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000626s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002350s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000593s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000655s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+[ 2012-08-27T09:17:16+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000690s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002534s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001039s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002268s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000399s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002074s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000484s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000498s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000567s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011072s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011172s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000388s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000487s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001727s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000447s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000510s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000686s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002674s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000673s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002601s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000459s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002027s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000465s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000494s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000561s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011147s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011247s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000396s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000439s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001741s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000452s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000513s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000590s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000692s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002547s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001309s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002239s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000860s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002124s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000443s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000489s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000556s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011221s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011320s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000389s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000439s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001733s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000452s ]
+[ 2012-08-27T09:17:17+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000513s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000898s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001003s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003394s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000740s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002233s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000392s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002068s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000474s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000906s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000976s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011919s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012016s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000541s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000581s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000383s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000627s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002315s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000586s ]
+[ 2012-08-27T09:19:50+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000649s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000875s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000974s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002157s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000431s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001829s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000596s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001884s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000666s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000922s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000990s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.012117s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012218s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000543s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000589s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000380s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000629s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002313s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000589s ]
+[ 2012-08-27T09:20:37+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000652s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000604s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000711s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002161s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.003110s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002379s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000811s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002197s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000544s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000481s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000568s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011078s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011178s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000384s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000440s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000483s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001719s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000449s ]
+[ 2012-08-27T09:20:38+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000511s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000918s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001024s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002223s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000552s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001906s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000473s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002025s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000512s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000914s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000987s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011955s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012054s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000543s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000579s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000377s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000624s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002295s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000586s ]
+[ 2012-08-27T09:21:08+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000648s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000821s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000925s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002604s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000848s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002191s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000626s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002121s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000525s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000491s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000558s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011239s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011340s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000384s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000440s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000487s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001720s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000445s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000506s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000595s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000697s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002324s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000447s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002068s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000424s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002169s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000356s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000509s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000579s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011627s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011737s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000396s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000449s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000494s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001751s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000447s ]
+[ 2012-08-27T09:21:09+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000508s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000876s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000977s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002375s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000388s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002097s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000530s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002053s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000503s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000902s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000971s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.012241s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012346s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000562s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000606s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000387s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000617s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002352s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000585s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000647s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000639s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000739s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003253s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000414s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001909s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000619s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001933s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000559s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000491s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000559s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011427s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011530s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000397s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000440s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000446s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000494s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001987s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000453s ]
+[ 2012-08-27T09:21:29+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000514s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000660s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000794s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002423s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000397s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002119s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000352s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002706s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000946s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000503s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000573s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.011473s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011599s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000444s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000546s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000308s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000571s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002262s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000619s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000693s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000601s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000704s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002868s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001814s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002326s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.001957s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002407s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.001732s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run LocationTemplate Behavior [ RunTime:0.000551s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_template ] --END-- [ RunTime:0.000626s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ParseTemplate Behavior [ RunTime:0.012396s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012516s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ContentReplace Behavior [ RunTime:0.000476s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run TokenBuild Behavior [ RunTime:0.000497s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000278s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowRuntime Behavior [ RunTime:0.000556s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002014s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Run ShowPageTrace Behavior [ RunTime:0.000600s ]
+[ 2012-08-27T09:21:30+08:00 ] /xxx2/?username=&password=&login=%E7%99%BB%E9%99%86&__hash__=3c1212e52ea43803424e35704a30c333_e521c4799fc25a48fac13402f1d5c32f | INFO: Tag[ view_end ] --END-- [ RunTime:0.000676s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000598s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000698s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002598s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000340s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002106s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000361s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002306s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000300s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000781s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000853s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011096s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011200s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000379s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000495s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001727s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000447s ]
+[ 2012-08-27T09:23:18+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000508s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000743s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000875s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002373s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000359s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002058s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000369s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002093s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000322s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000532s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000613s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011161s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011268s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000395s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000452s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000506s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001763s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000452s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000513s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000590s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000687s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002652s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001059s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002261s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000335s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002152s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000333s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000496s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000562s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011055s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011163s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000385s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000439s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000238s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000704s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001946s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000498s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000561s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000585s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000684s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002575s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001055s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002057s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000463s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002058s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000408s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000487s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000555s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011055s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011161s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000386s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000685s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000303s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000582s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002173s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000507s ]
+[ 2012-08-27T09:23:26+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000572s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000588s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000686s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002401s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000692s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.001902s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000606s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001933s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000528s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000483s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000549s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011278s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011380s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000385s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000447s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000514s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001754s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000446s ]
+[ 2012-08-27T09:23:27+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000508s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000867s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000983s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002284s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000419s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002021s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000418s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002233s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000309s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000907s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000977s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011864s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011965s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000669s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000585s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000377s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000632s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002444s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000588s ]
+[ 2012-08-27T09:23:49+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000652s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000640s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000742s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002393s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001221s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002177s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000407s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.001990s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000397s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000488s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000554s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011110s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011212s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000379s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000438s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000498s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001724s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000448s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000509s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000766s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000899s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002708s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000319s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002233s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.000308s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002100s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_link`  [ RunTime:0.000321s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000499s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000566s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011103s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011214s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000393s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000440s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000518s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001764s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000459s ]
+[ 2012-08-27T09:23:50+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000520s ]

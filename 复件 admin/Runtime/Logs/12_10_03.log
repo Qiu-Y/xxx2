@@ -1,0 +1,54 @@
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.028466s ]
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.028590s ]
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000744s ]
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000819s ]
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.047537s ]
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.047706s ]
+[ 2012-10-03T21:58:31+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.272513s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.272636s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.030893s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.068361s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.014138s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.016323s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.130118s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.016012s ]
+[ 2012-10-03T21:58:32+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.016168s ]
+[ 2012-10-03T21:58:33+08:00 ] /xxx2/admin.php/Common/verify/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-03T21:58:33+08:00 ] /xxx2/admin.php/Common/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.001229s ]
+[ 2012-10-03T21:58:33+08:00 ] /xxx2/admin.php/Common/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001341s ]
+[ 2012-10-03T21:58:33+08:00 ] /xxx2/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-03T21:58:33+08:00 ] /xxx2/admin.php/Common/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000768s ]
+[ 2012-10-03T21:58:33+08:00 ] /xxx2/admin.php/Common/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000836s ]
+[ 2012-10-03T21:58:34+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-10-03T21:58:34+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.000941s ]
+[ 2012-10-03T21:58:34+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001046s ]
+[ 2012-10-03T21:58:34+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-10-03T21:58:34+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000584s ]
+[ 2012-10-03T21:58:34+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000647s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000416s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000513s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.010578s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010695s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001014s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000606s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000407s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000599s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002866s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000572s ]
+[ 2012-10-03T21:58:35+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000640s ]

@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+ </HEAD>
+<style type="text/css">
+	ul{
+		list-style-type:none;
+		font-size:14px;
+	}
+	li a{
+		font-size:14px;	
+	}
+	
+	body
+	{
+		font-size:13px;
+		color:#666;
+		background:#f2f0f1;
+	}
+</style>
+ <BODY>
+ {$title}
+  <ul>
+        <volist name="clog" id="vo">
+        	<li><a href="__URL__/de_videos/title/{$vo['f_cata']}">{$vo['f_cata']}</a></li>
+    
+        </volist>
+  </ul>
+ </BODY>
+</HTML>

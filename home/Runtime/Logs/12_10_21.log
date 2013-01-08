@@ -1,0 +1,1106 @@
+[ 2012-10-21T12:17:55+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:17:55+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.013887s ]
+[ 2012-10-21T12:17:55+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.019969s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.073785s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.019264s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.085217s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.018033s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.058361s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.000413s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.056385s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.056486s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.098828s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.098946s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000887s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.001040s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000741s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000946s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003790s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000923s ]
+[ 2012-10-21T12:17:56+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000992s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.052299s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.052441s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000837s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000902s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 66 行.
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.150142s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='admin' and pwd='21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.009367s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.040143s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_teacher` WHERE username='admin' and pwd='admin' LIMIT 1   [ RunTime:0.001439s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Undefined index: logins IndexAction.class.php 第 89 行.
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='1',`username`='admin',`pwd`='admin',`name`='朱全银',`phone`=null,`qq`=null WHERE username='admin' [ RunTime:0.011529s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 91 行.
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.021727s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.021837s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.009926s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010038s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.000533s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.000523s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000378s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.000623s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002228s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.000611s ]
+[ 2012-10-21T12:38:25+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.000676s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run CheckRoute Behavior [ RunTime:0.000956s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001075s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000757s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000840s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 6 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002199s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`f_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` ORDER BY id asc  [ RunTime:0.001608s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002858s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id asc  [ RunTime:0.000728s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002442s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id asc  [ RunTime:0.000621s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run LocationTemplate Behavior [ RunTime:0.014771s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.014880s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: count 4114fbf5f7e547e5b806b05cdf8d53ce.php 第 159 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run ParseTemplate Behavior [ RunTime:0.073101s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.073190s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run ContentReplace Behavior [ RunTime:0.000503s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run TokenBuild Behavior [ RunTime:0.000450s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000255s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000519s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001908s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001358s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001456s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run CheckRoute Behavior [ RunTime:0.001122s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001265s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000935s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001036s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 31 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined index: id ShowAction.class.php 第 33 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run LocationTemplate Behavior [ RunTime:0.000846s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --END-- [ RunTime:0.000938s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined variable: content_list b6c27305877664492e2dc85072d532a8.php 第 30 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run ParseTemplate Behavior [ RunTime:0.099838s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --END-- [ RunTime:0.099925s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run ContentReplace Behavior [ RunTime:0.000429s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000280s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowRuntime Behavior [ RunTime:0.000510s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001862s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowPageTrace Behavior [ RunTime:0.000465s ]
+[ 2012-10-21T12:38:26+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --END-- [ RunTime:0.000526s ]
+[ 2012-10-21T12:38:27+08:00 ] /xxx2/index.php/Show/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000961s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001082s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000657s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000724s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.003776s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | SQL: SELECT * FROM `think_login` WHERE username='admin' LIMIT 1   [ RunTime:0.001552s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.003325s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | SQL: SELECT * FROM `think_teacher` WHERE username='admin' LIMIT 1   [ RunTime:0.001630s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.027678s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.027812s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | NOTIC: [8] Undefined variable: title 5975e7a2433ec92e3353b8ad18204677.php 第 10 行.
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.037911s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037991s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000409s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000597s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000290s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000537s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002024s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000530s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000596s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run CheckRoute Behavior [ RunTime:0.000958s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ route_check ] --END-- [ RunTime:0.001073s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000681s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000756s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.002570s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | SQL: SELECT * FROM `think_teacher` WHERE username='admin' LIMIT 1   [ RunTime:0.001781s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run LocationTemplate Behavior [ RunTime:0.012547s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_template ] --END-- [ RunTime:0.012700s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | NOTIC: [8] Undefined index: clas 6569ff6c8c36748b93a6ed2c12040137.php 第 36 行.
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | NOTIC: [8] Undefined index: mails 6569ff6c8c36748b93a6ed2c12040137.php 第 53 行.
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | NOTIC: [8] Undefined index: addr 6569ff6c8c36748b93a6ed2c12040137.php 第 61 行.
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run ParseTemplate Behavior [ RunTime:0.025156s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025245s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run ContentReplace Behavior [ RunTime:0.000426s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run TokenBuild Behavior [ RunTime:0.000449s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run ShowRuntime Behavior [ RunTime:0.000488s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001778s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Run ShowPageTrace Behavior [ RunTime:0.000445s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/basic_info | INFO: Tag[ view_end ] --END-- [ RunTime:0.000505s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001690s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001825s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003524s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003621s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.006012s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | SQL: SELECT * FROM `think_login` WHERE username='admin' LIMIT 1   [ RunTime:0.002457s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.004330s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | SQL: SELECT * FROM `think_teacher` WHERE username='admin' LIMIT 1   [ RunTime:0.004806s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.001207s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.001312s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 5975e7a2433ec92e3353b8ad18204677.php 第 10 行.
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.016432s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016522s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000627s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000773s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.010724s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.001015s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013548s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000670s ]
+[ 2012-10-21T12:39:08+08:00 ] /xxx2/index.php/Sroom/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000742s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run CheckRoute Behavior [ RunTime:0.000865s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000965s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000569s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000637s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.002595s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | SQL: SELECT * FROM `think_teacher` WHERE username='admin' LIMIT 1   [ RunTime:0.000623s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000500s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000568s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | NOTIC: [8] Undefined index: clas 6569ff6c8c36748b93a6ed2c12040137.php 第 36 行.
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | NOTIC: [8] Undefined index: mails 6569ff6c8c36748b93a6ed2c12040137.php 第 53 行.
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | NOTIC: [8] Undefined index: addr 6569ff6c8c36748b93a6ed2c12040137.php 第 61 行.
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ParseTemplate Behavior [ RunTime:0.008549s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008625s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ContentReplace Behavior [ RunTime:0.000381s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run TokenBuild Behavior [ RunTime:0.000448s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000244s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000489s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001730s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000473s ]
+[ 2012-10-21T12:39:23+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000600s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run CheckRoute Behavior [ RunTime:0.000864s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000966s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000567s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000630s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run LocationTemplate Behavior [ RunTime:0.020624s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.020745s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run ParseTemplate Behavior [ RunTime:0.036790s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036906s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run ContentReplace Behavior [ RunTime:0.000435s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run TokenBuild Behavior [ RunTime:0.000550s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000253s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000500s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001912s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000455s ]
+[ 2012-10-21T12:39:25+08:00 ] /xxx2/index.php/Sroom/head_img/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000516s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run CheckRoute Behavior [ RunTime:0.000857s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000972s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000644s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000714s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.064550s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | SQL: SELECT COUNT(*) AS tp_count FROM `think_msg` WHERE to_name='朱全银' LIMIT 1   [ RunTime:0.022687s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | SQL: SELECT * FROM `think_msg` WHERE to_name='朱全银'  [ RunTime:0.000326s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | SQL: SELECT * FROM `think_msg` WHERE to_name='朱全银' ORDER BY id desc LIMIT 0,8   [ RunTime:0.000485s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run LocationTemplate Behavior [ RunTime:0.019691s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.019802s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run ParseTemplate Behavior [ RunTime:0.064506s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.064621s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run ContentReplace Behavior [ RunTime:0.000423s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run TokenBuild Behavior [ RunTime:0.000401s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000493s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001733s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000451s ]
+[ 2012-10-21T12:39:30+08:00 ] /xxx2/index.php/Sroom/short_msg/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000511s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run CheckRoute Behavior [ RunTime:0.000877s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001010s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000577s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000638s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000700s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000792s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run ParseTemplate Behavior [ RunTime:0.029935s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030038s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run ContentReplace Behavior [ RunTime:0.000379s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run TokenBuild Behavior [ RunTime:0.000439s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000246s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001725s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000467s ]
+[ 2012-10-21T12:39:31+08:00 ] /xxx2/index.php/Sroom/change_pwd/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000530s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run CheckRoute Behavior [ RunTime:0.000896s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000580s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000642s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SHOW COLUMNS FROM `think_class` [ RunTime:0.046830s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SELECT COUNT(*) AS tp_count FROM `think_class` WHERE teacher='朱全银' LIMIT 1   [ RunTime:0.000408s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SELECT * FROM `think_class` WHERE teacher='朱全银' ORDER BY id desc LIMIT 0,8   [ RunTime:0.000335s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run LocationTemplate Behavior [ RunTime:0.007324s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.007424s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ParseTemplate Behavior [ RunTime:0.044112s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044226s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ContentReplace Behavior [ RunTime:0.000413s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run TokenBuild Behavior [ RunTime:0.000400s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000492s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001720s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000453s ]
+[ 2012-10-21T12:39:34+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000513s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run CheckRoute Behavior [ RunTime:0.000863s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000962s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000566s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000628s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.002369s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | SQL: SELECT * FROM `think_teacher` WHERE username='admin' LIMIT 1   [ RunTime:0.000590s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000504s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000575s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | NOTIC: [8] Undefined index: clas 6569ff6c8c36748b93a6ed2c12040137.php 第 36 行.
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | NOTIC: [8] Undefined index: mails 6569ff6c8c36748b93a6ed2c12040137.php 第 53 行.
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | NOTIC: [8] Undefined index: addr 6569ff6c8c36748b93a6ed2c12040137.php 第 61 行.
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ParseTemplate Behavior [ RunTime:0.008751s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008825s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ContentReplace Behavior [ RunTime:0.000388s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run TokenBuild Behavior [ RunTime:0.000435s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000238s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000494s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001724s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000458s ]
+[ 2012-10-21T12:39:39+08:00 ] /xxx2/index.php/Sroom/basic_info/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000522s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run CheckRoute Behavior [ RunTime:0.000860s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000959s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000633s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000702s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SHOW COLUMNS FROM `think_class` [ RunTime:0.002391s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SELECT COUNT(*) AS tp_count FROM `think_class` WHERE teacher='朱全银' LIMIT 1   [ RunTime:0.000566s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SELECT * FROM `think_class` WHERE teacher='朱全银' ORDER BY id desc LIMIT 0,8   [ RunTime:0.000450s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000687s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000757s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ParseTemplate Behavior [ RunTime:0.009633s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009736s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ContentReplace Behavior [ RunTime:0.000426s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run TokenBuild Behavior [ RunTime:0.000399s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000246s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000565s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001811s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000459s ]
+[ 2012-10-21T12:39:41+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000519s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run CheckRoute Behavior [ RunTime:0.000878s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.000979s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000577s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000638s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SHOW COLUMNS FROM `think_class` [ RunTime:0.002793s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SELECT COUNT(*) AS tp_count FROM `think_class` WHERE teacher='朱全银' LIMIT 1   [ RunTime:0.000486s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | SQL: SELECT * FROM `think_class` WHERE teacher='朱全银' ORDER BY id desc LIMIT 0,8   [ RunTime:0.000519s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000695s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000771s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ParseTemplate Behavior [ RunTime:0.009982s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010083s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ContentReplace Behavior [ RunTime:0.000390s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run TokenBuild Behavior [ RunTime:0.000389s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000239s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000489s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001676s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000447s ]
+[ 2012-10-21T12:39:53+08:00 ] /xxx2/index.php/Sroom/classlist/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000507s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run CheckRoute Behavior [ RunTime:0.001044s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001148s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000599s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000661s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | SQL: SHOW COLUMNS FROM `think_work` [ RunTime:0.070898s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | SQL: SELECT COUNT(*) AS tp_count FROM `think_work` WHERE name='朱全银' LIMIT 1   [ RunTime:0.000733s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | SQL: SELECT * FROM `think_work` WHERE name='朱全银' ORDER BY id desc LIMIT 0,8   [ RunTime:0.000644s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001175s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001273s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run ParseTemplate Behavior [ RunTime:0.049814s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.049929s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run ContentReplace Behavior [ RunTime:0.000452s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run TokenBuild Behavior [ RunTime:0.000496s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000245s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000526s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001896s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000466s ]
+[ 2012-10-21T12:39:54+08:00 ] /xxx2/index.php/Sroom/worklist/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000528s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run CheckRoute Behavior [ RunTime:0.000868s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000969s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000573s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000635s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | SQL: SHOW COLUMNS FROM `think_work` [ RunTime:0.002436s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | SQL: SELECT COUNT(*) AS tp_count FROM `think_work` WHERE name='朱全银' LIMIT 1   [ RunTime:0.000665s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | SQL: SELECT * FROM `think_work` WHERE name='朱全银' ORDER BY id desc LIMIT 8,8   [ RunTime:0.000531s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run LocationTemplate Behavior [ RunTime:0.000708s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000780s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run ParseTemplate Behavior [ RunTime:0.010087s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010186s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run ContentReplace Behavior [ RunTime:0.000434s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run TokenBuild Behavior [ RunTime:0.000407s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000238s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run ShowRuntime Behavior [ RunTime:0.000493s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001743s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000457s ]
+[ 2012-10-21T12:39:58+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=2 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000519s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run CheckRoute Behavior [ RunTime:0.000863s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001148s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000624s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000687s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | SQL: SHOW COLUMNS FROM `think_work` [ RunTime:0.002215s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | SQL: SELECT COUNT(*) AS tp_count FROM `think_work` WHERE name='朱全银' LIMIT 1   [ RunTime:0.000692s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | SQL: SELECT * FROM `think_work` WHERE name='朱全银' ORDER BY id desc LIMIT 0,8   [ RunTime:0.000387s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000681s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000751s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run ParseTemplate Behavior [ RunTime:0.010249s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010356s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run ContentReplace Behavior [ RunTime:0.000479s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run TokenBuild Behavior [ RunTime:0.000431s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000249s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000519s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001862s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000460s ]
+[ 2012-10-21T12:39:59+08:00 ] /xxx2/index.php/Sroom/worklist/?&p=1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000521s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001024s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001140s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.245723s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.005480s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.137228s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.001798s ]
+[ 2012-10-21T12:45:33+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.007931s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.142907s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001137s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001223s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016592s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016720s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000652s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000636s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002328s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000712s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004534s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000625s ]
+[ 2012-10-21T12:45:34+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000689s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.001055s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001163s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000576s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000638s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 66 行.
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.002877s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='admin' and pwd='21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.000677s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.002450s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_teacher` WHERE username='admin' and pwd='admin' LIMIT 1   [ RunTime:0.000703s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Undefined index: logins IndexAction.class.php 第 89 行.
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='1',`username`='admin',`pwd`='admin',`name`='朱全银',`phone`=null,`qq`=null WHERE username='admin' [ RunTime:0.000437s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 91 行.
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.000754s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.000827s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.009331s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009440s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.000400s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.000407s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000258s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.000505s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001752s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.000492s ]
+[ 2012-10-21T12:45:39+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.000559s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run CheckRoute Behavior [ RunTime:0.000940s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001057s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000667s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000740s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 6 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003482s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`f_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` ORDER BY id asc  [ RunTime:0.000588s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002597s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id asc  [ RunTime:0.000484s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002544s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id asc  [ RunTime:0.000431s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000731s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000801s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: count 4114fbf5f7e547e5b806b05cdf8d53ce.php 第 159 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017156s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017236s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ContentReplace Behavior [ RunTime:0.000466s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run TokenBuild Behavior [ RunTime:0.000426s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000476s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000758s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002322s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000536s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000607s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run CheckRoute Behavior [ RunTime:0.001151s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001281s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000739s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000821s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 31 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined index: id ShowAction.class.php 第 33 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run LocationTemplate Behavior [ RunTime:0.000735s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --END-- [ RunTime:0.000827s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined variable: content_list b6c27305877664492e2dc85072d532a8.php 第 30 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run ParseTemplate Behavior [ RunTime:0.011633s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011715s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run ContentReplace Behavior [ RunTime:0.000433s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run TokenBuild Behavior [ RunTime:0.000518s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001261s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowRuntime Behavior [ RunTime:0.001065s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003537s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowPageTrace Behavior [ RunTime:0.000654s ]
+[ 2012-10-21T12:45:40+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --END-- [ RunTime:0.000736s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001091s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001229s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003554s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.001062s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002451s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.001208s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002451s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.000502s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000971s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001044s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.018998s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019100s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000560s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000757s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000400s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000629s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002524s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000698s ]
+[ 2012-10-21T12:45:46+08:00 ] /xxx2/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.000761s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000590s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000688s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003400s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.002530s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.006863s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.003210s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.003525s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.001302s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000863s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.000938s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.011870s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011973s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000406s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000447s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000242s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000491s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001754s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000454s ]
+[ 2012-10-21T12:50:28+08:00 ] /xxx2/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.000514s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.001007s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001111s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000588s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000651s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 66 行.
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.002618s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='1091306419' and pwd='c20ad4d76fe97759aa27a0c99bff6710' LIMIT 1   [ RunTime:0.000583s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='32',`username`='1091306419',`pwd`='c20ad4d76fe97759aa27a0c99bff6710',`name`='admin',`num`='1091306419',`clas`='通信1101',`sex`='MRS',`qq`='',`mails`='qiuyan_hy@qq.com',`phone`='15335088037',`addr`='',`getpassword`=null,`ntime`=null,`logintimes`=4,`s_img`=null WHERE username='1091306419' [ RunTime:0.000546s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 79 行.
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.000501s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.000569s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.008976s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009077s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.000385s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.000384s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.000487s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001669s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.000478s ]
+[ 2012-10-21T12:50:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.000542s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run CheckRoute Behavior [ RunTime:0.000932s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001050s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000652s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000796s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 6 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003702s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`f_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` ORDER BY id asc  [ RunTime:0.000965s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002484s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id asc  [ RunTime:0.001137s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002356s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id asc  [ RunTime:0.000367s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000739s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000809s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: count 4114fbf5f7e547e5b806b05cdf8d53ce.php 第 159 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018022s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018102s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run ContentReplace Behavior [ RunTime:0.000578s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run TokenBuild Behavior [ RunTime:0.000491s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000316s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000555s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002137s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000683s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000807s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run CheckRoute Behavior [ RunTime:0.000982s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001100s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000719s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000798s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 31 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined index: id ShowAction.class.php 第 33 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run LocationTemplate Behavior [ RunTime:0.000782s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --END-- [ RunTime:0.000882s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined variable: content_list b6c27305877664492e2dc85072d532a8.php 第 30 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run ParseTemplate Behavior [ RunTime:0.010142s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010229s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run ContentReplace Behavior [ RunTime:0.004284s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run TokenBuild Behavior [ RunTime:0.000636s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000334s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowRuntime Behavior [ RunTime:0.001296s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006861s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowPageTrace Behavior [ RunTime:0.000643s ]
+[ 2012-10-21T12:50:37+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --END-- [ RunTime:0.000728s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001653s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001785s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003674s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.000777s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.004311s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.000538s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.004286s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.000555s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001552s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001652s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.044908s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.045043s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000983s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.001005s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000733s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001127s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004093s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001046s ]
+[ 2012-10-21T13:18:00+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001131s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.069766s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.069915s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000744s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001080s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 66 行.
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.003110s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='admin' and pwd='21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.000886s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.003099s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_teacher` WHERE username='admin' and pwd='admin' LIMIT 1   [ RunTime:0.001372s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Undefined index: logins IndexAction.class.php 第 90 行.
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='1',`username`='admin',`pwd`='admin',`name`='朱全银',`phone`=null,`qq`=null WHERE username='admin' [ RunTime:0.000720s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 92 行.
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.001228s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.001356s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.028360s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028463s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.000372s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.000389s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000246s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.000489s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001670s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.000455s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.000525s ]
+[ 2012-10-21T13:18:06+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant shenfen - assumed 'shenfen' IndexAction.class.php 第 94 行.
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000651s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000761s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002488s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.000646s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002375s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.000485s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002295s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.000644s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000932s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001005s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019147s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019248s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000561s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000713s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000383s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000657s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002491s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000652s ]
+[ 2012-10-21T13:20:10+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000717s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.001600s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001771s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000942s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001038s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 66 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.003521s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='admin' and pwd='21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.001703s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.004032s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_teacher` WHERE username='admin' and pwd='admin' LIMIT 1   [ RunTime:0.000909s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Undefined index: logins IndexAction.class.php 第 91 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='1',`username`='admin',`pwd`='admin',`name`='朱全银',`phone`=null,`qq`=null WHERE username='admin' [ RunTime:0.000898s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 93 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant shenfen - assumed 'shenfen' IndexAction.class.php 第 94 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.001083s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.001196s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.014283s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014431s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.000574s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.000563s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000350s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.000729s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002476s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.000742s ]
+[ 2012-10-21T13:20:15+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.001305s ]
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | INFO: Run CheckRoute Behavior [ RunTime:0.001240s ]
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001349s ]
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000748s ]
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000811s ]
+[ 2012-10-21T13:22:05+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 6 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003028s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`f_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` ORDER BY id asc  [ RunTime:0.000755s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.003108s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id asc  [ RunTime:0.001178s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002991s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id asc  [ RunTime:0.002717s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000966s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001036s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: count 4114fbf5f7e547e5b806b05cdf8d53ce.php 第 163 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run ParseTemplate Behavior [ RunTime:0.020872s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020963s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run ContentReplace Behavior [ RunTime:0.000746s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run TokenBuild Behavior [ RunTime:0.000656s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000427s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000660s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002687s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000594s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000823s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run CheckRoute Behavior [ RunTime:0.001031s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001184s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002166s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002277s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 30 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined index: id ShowAction.class.php 第 32 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run LocationTemplate Behavior [ RunTime:0.000645s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --END-- [ RunTime:0.000725s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined variable: content_list b6c27305877664492e2dc85072d532a8.php 第 30 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run ParseTemplate Behavior [ RunTime:0.083608s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --END-- [ RunTime:0.083697s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run ContentReplace Behavior [ RunTime:0.000632s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run TokenBuild Behavior [ RunTime:0.000765s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000292s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowRuntime Behavior [ RunTime:0.000517s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002527s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowPageTrace Behavior [ RunTime:0.000479s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --END-- [ RunTime:0.000541s ]
+[ 2012-10-21T13:22:06+08:00 ] /xxx2/index.php/Show/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001512s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001662s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003770s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.001433s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.003523s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.001016s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.003316s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.002371s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001404s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001509s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033195s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033405s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.001133s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.006160s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000813s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001037s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009535s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005564s ]
+[ 2012-10-21T13:22:39+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005678s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.001571s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001717s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001322s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001429s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 66 行.
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.003324s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='1091306419' and pwd='c20ad4d76fe97759aa27a0c99bff6710' LIMIT 1   [ RunTime:0.000972s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='32',`username`='1091306419',`pwd`='c20ad4d76fe97759aa27a0c99bff6710',`name`='admin',`num`='1091306419',`clas`='通信1101',`sex`='MRS',`qq`='',`mails`='qiuyan_hy@qq.com',`phone`='15335088037',`addr`='',`getpassword`=null,`ntime`=null,`logintimes`=5,`s_img`=null WHERE username='1091306419' [ RunTime:0.000803s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 79 行.
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant shenfen - assumed 'shenfen' IndexAction.class.php 第 80 行.
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.000937s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.001029s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.012283s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012411s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.000586s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.000544s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000359s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.000675s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002405s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.000635s ]
+[ 2012-10-21T13:22:48+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.000721s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run CheckRoute Behavior [ RunTime:0.000917s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001029s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000659s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000732s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 6 行.
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.004660s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`f_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` ORDER BY id asc  [ RunTime:0.001669s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002462s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id asc  [ RunTime:0.000524s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002356s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id asc  [ RunTime:0.000574s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run LocationTemplate Behavior [ RunTime:0.000733s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000803s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: count 4114fbf5f7e547e5b806b05cdf8d53ce.php 第 163 行.
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run ParseTemplate Behavior [ RunTime:0.017990s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018104s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run ContentReplace Behavior [ RunTime:0.000478s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run TokenBuild Behavior [ RunTime:0.000417s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000239s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000501s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001808s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000713s ]
+[ 2012-10-21T13:22:50+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000794s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run CheckRoute Behavior [ RunTime:0.001029s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001153s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000735s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000815s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 30 行.
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined index: id ShowAction.class.php 第 32 行.
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run LocationTemplate Behavior [ RunTime:0.001060s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_template ] --END-- [ RunTime:0.001156s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | NOTIC: [8] Undefined variable: content_list b6c27305877664492e2dc85072d532a8.php 第 30 行.
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run ParseTemplate Behavior [ RunTime:0.016733s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016872s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run ContentReplace Behavior [ RunTime:0.000407s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run TokenBuild Behavior [ RunTime:0.000590s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000268s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowRuntime Behavior [ RunTime:0.000504s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001955s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Run ShowPageTrace Behavior [ RunTime:0.000502s ]
+[ 2012-10-21T13:22:51+08:00 ] /xxx2/index.php/Show/show | INFO: Tag[ view_end ] --END-- [ RunTime:0.000684s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run CheckRoute Behavior [ RunTime:0.000928s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001031s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000651s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002314s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | SQL: SELECT * FROM `think_catalog` WHERE f_cata='视频' LIMIT 1   [ RunTime:0.000765s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | SQL: SELECT * FROM `think_catalog` WHERE f_id=40  [ RunTime:0.000202s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run LocationTemplate Behavior [ RunTime:0.020377s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_template ] --END-- [ RunTime:0.020486s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run ParseTemplate Behavior [ RunTime:0.016338s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016443s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run ContentReplace Behavior [ RunTime:0.000719s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run TokenBuild Behavior [ RunTime:0.001070s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000931s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run ShowRuntime Behavior [ RunTime:0.000930s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003893s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001052s ]
+[ 2012-10-21T15:00:48+08:00 ] /xxx2/index.php/Show/videos/id/%E8%A7%86%E9%A2%91 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001133s ]
+[ 2012-10-21T15:00:49+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T15:00:49+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run CheckRoute Behavior [ RunTime:0.000941s ]
+[ 2012-10-21T15:00:49+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ route_check ] --END-- [ RunTime:0.001061s ]
+[ 2012-10-21T15:00:49+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T15:00:49+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000629s ]
+[ 2012-10-21T15:00:49+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000701s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | SQL: SHOW COLUMNS FROM `think_film` [ RunTime:0.032577s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | SQL: SELECT * FROM `think_film` WHERE f_cata='aaaaaaaa'  [ RunTime:0.006978s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run LocationTemplate Behavior [ RunTime:0.011528s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_template ] --END-- [ RunTime:0.011643s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run ParseTemplate Behavior [ RunTime:0.016507s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016629s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run ContentReplace Behavior [ RunTime:0.000410s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run TokenBuild Behavior [ RunTime:0.000403s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000275s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run ShowRuntime Behavior [ RunTime:0.000738s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002028s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Run ShowPageTrace Behavior [ RunTime:0.000530s ]
+[ 2012-10-21T15:00:50+08:00 ] /xxx2/index.php/Show/de_videos/title/aaaaaaaa | INFO: Tag[ view_end ] --END-- [ RunTime:0.000592s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ route_check ] --START--
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run CheckRoute Behavior [ RunTime:0.000939s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ route_check ] --END-- [ RunTime:0.001056s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ app_begin ] --START--
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000622s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000692s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | NOTIC: [8] Undefined index: id ShowAction.class.php 第 74 行.
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.005204s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | SQL: SELECT * FROM `think_catalog` WHERE f_cata='aaaaaaaa' LIMIT 1   [ RunTime:0.003048s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | SQL: SELECT * FROM `think_catalog` WHERE f_id=40  [ RunTime:0.000954s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_template ] --START--
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run LocationTemplate Behavior [ RunTime:0.000726s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_template ] --END-- [ RunTime:0.000808s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_parse ] --START--
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run ParseTemplate Behavior [ RunTime:0.009896s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009996s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_filter ] --START--
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run ContentReplace Behavior [ RunTime:0.000377s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run TokenBuild Behavior [ RunTime:0.000391s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001662s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_end ] --START--
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Run ShowPageTrace Behavior [ RunTime:0.000469s ]
+[ 2012-10-21T15:00:51+08:00 ] /xxx2/index.php/Show/videos/f_title/aaaaaaaa | INFO: Tag[ view_end ] --END-- [ RunTime:0.000531s ]

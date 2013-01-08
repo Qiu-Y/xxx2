@@ -1,0 +1,22 @@
+.{
+	margin:0;
+}
+body{
+
+}
+table{
+	width:90%;
+}
+
+table{
+	font-size:14px;
+	text-align:center;
+}
+
+table th{
+	font-weight:bold;
+	height:30px;
+}
+table tfoot tr{
+	height:15px;
+}

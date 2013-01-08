@@ -1,0 +1,24 @@
+[ 2012-08-30T00:45:23+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.064051s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.090782s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.117947s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.016815s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.090766s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.012619s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.084861s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi`  [ RunTime:0.000982s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.031168s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.031423s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.079691s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.079840s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.008798s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.001818s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000874s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001101s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012823s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000902s ]
+[ 2012-08-30T00:45:24+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000984s ]

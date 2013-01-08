@@ -1,0 +1,49 @@
+[ 2012-09-11T18:21:15+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-09-11T18:21:15+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.013893s ]
+[ 2012-09-11T18:21:15+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.023266s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.088495s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.026864s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.065013s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.016025s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.081351s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi`  [ RunTime:0.001061s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.042896s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.043006s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.092578s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.092701s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000951s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.147191s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.041268s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001438s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.191109s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.042425s ]
+[ 2012-09-11T18:21:16+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.042534s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000597s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000698s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003072s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000791s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.002214s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link`  [ RunTime:0.001107s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.002277s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi`  [ RunTime:0.000699s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000794s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000864s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.012378s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012483s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.000403s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000245s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000492s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001753s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000452s ]
+[ 2012-09-11T18:25:49+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000514s ]

@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!doctype html>
+
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang=en><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang=en><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang=en><![endif]-->
+
+<!--[if gt IE 8]><!--> <html class=no-js lang=en> <!--<![endif]-->
+<head>
+<meta content="text/html; CHARSET=utf-8" http-equiv="Content-Type">	
+<link rel="stylesheet" href="__PUBLIC__/Css/home/Outdoor.css" type="text/css" />
+
+<title>{$title}</title>
+
+
+<script type="text/javascript" src="__PUBLIC__/Js/jquery-1.8.0.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/admin/simpla.jquery.configuration.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/admin/facebox.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/admin/jquery.wysiwyg.js"></script>
+
+<!--视频播放器所需文件-->
+<link rel=stylesheet href="http://www.videojs.net/vjs.zencdn.net/3.2/video-js.css" tppabs="http://vjs.zencdn.net/3.2/video-js.css" type="text/css">
+<script> _V_.options.flash.swf = "http://video-js.zencoder.com/video-js.swf";</script>
+<script src="http://www.videojs.net/video.js"></script>
+<!--视频播放器所需文件-->
+
+
+<style type="text/css">
+#tongzhi{
+	border:1px solid #895F30;
+	}
+#mq{
+	height:94%;
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:5px;
+	}
+
+#myvideo
+{
+float:right;
+width:620px;
+height:300px;
+}
+</style>
+
+<!--视频切换-->
+<script language="javascript" type="text/javascript">
+jQuery().ready(function() {
+var labobject = jQuery("source");
+var count = jQuery("#example_video_1").children().attr("class");
+alert(count);
+});
+</script>
+<!--视频切换-->
+
+</head>
+<body>
+
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">			
+				
+		<h1 id="logo-text"><a href="__URL__/Index/index" title="free-css-templates">信号与系统</a></h1>		
+		<p id="slogan"></p>		
+			
+		<div id="header-links">
+			<p>
+			<a href="__URL__/Index/index">首页</a> | 
+			<a href="__URL__/Index/contact" target="details">联系</a> | 
+			<a href="__URL__/Index/index">English</a>			
+			</p>		
+		</div>				
+		
+	<!--header ends-->					
+	</div>
+	
+	<div id="header-photo"><img src="__PUBLIC__/Images/home/header-photo.jpg" width="870" height="206" alt="header-photo" /></div>	
+	
+	<!-- navigation starts-->	
+	<div  id="nav">
+		<ul>
+       		<li id="current"><a href="__URL__/Index/index">首页</a></li>
+        	<volist name="news_list" id="vo">
+                <li><a href="#">{$vo['f_cata']}</a></li>
+            </volist>
+		</ul>
+	<!-- navigation ends-->	
+	</div>					
+			
+<!-- qy begin-->
+
+	<!-- content-wrap starts -->
+	<div id="side">
+				
+		<div id="">
+        <ul id="main-nav">
+            <volist name="news_list" id="vo">
+            <eq name='vo.f_id' value='0'>
+                    <li> <a href="#" class="nav-top-item">{$vo['f_cata']}</a>
+                          <ul>
+                              <volist name="news_list" id="sub">
+                                  <eq name='sub.f_id' value='$vo.id'>
+                                        <li><a href="#" id="a_video" onClick="myvideo();">{$sub['s_cata']}</a></li>
+                                  </eq>
+                              </volist>  
+                          </ul>
+                    </li>
+             </eq>
+             </volist>
+        </ul>   	
+		</div>
+		
+
+		<!--<div id="sidebar">
+		</div>-->
+		<!-- sidebar ends -->	
+		
+	<!-- content-wrap ends-->	
+	</div>
+
+		
+<!--视频播放器-->
+<div id="myvideo">
+	 <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="605" height="300"
+		poster="http://video-js.zencoder.com/oceans-clip.png" data-setup="{}">
+		<source class="ssrc" src="__PUBLIC__/videos/clip.mp4" type='video/mp4' />
+	</video>
+</div>
+<!--视频播放器-->
+
+<!-- qy end-->
+
+
+	<!-- footer starts -->		
+	<div id="footer-wrap">
+	
+		<div id="footer-columns">
+	
+			<div class="col3">
+				<h3>友情链接</h3>
+				<ul>
+                	<volist name="link_list" id="vo">
+                        <li><a href="{$vo['addr']}">{$vo['info']}</a></li>
+                    </volist>
+				</ul>
+			</div>
+
+			
+		<!-- footer-columns ends -->
+		</div>	
+		
+		<div id="footer-bottom">		
+			
+			<p>
+			&copy; 2012<strong>Your Company</strong> | 
+			Design by: <a href="http://www.865171.cn">styleshout</a> | 
+   		</p>		
+			
+		</div>
+		
+<!-- footer ends-->
+</div>
+
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

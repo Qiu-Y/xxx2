@@ -1,0 +1,657 @@
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.017718s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.017841s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000754s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000848s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.018619s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.018745s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.063456s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.063576s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000461s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.020138s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000519s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000673s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.022052s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000558s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000620s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.001471s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.001641s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000646s ]
+[ 2012-09-22T15:55:42+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000714s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.001362s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001476s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000808s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000879s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000770s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000846s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.198827s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.198929s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000575s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000767s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000501s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000713s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002758s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000640s ]
+[ 2012-09-22T15:55:43+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000719s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run CheckRoute Behavior [ RunTime:0.000964s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ route_check ] --END-- [ RunTime:0.001124s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000683s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000769s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 12 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run LocationTemplate Behavior [ RunTime:0.077060s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_template ] --END-- [ RunTime:0.077192s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ParseTemplate Behavior [ RunTime:0.047461s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047580s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ContentReplace Behavior [ RunTime:0.000989s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run TokenBuild Behavior [ RunTime:0.001019s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000826s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ShowRuntime Behavior [ RunTime:0.001007s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004213s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ShowPageTrace Behavior [ RunTime:0.000857s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_end ] --END-- [ RunTime:0.000936s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.000909s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001029s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000676s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000752s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 12 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000419s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000504s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.010640s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010719s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.001501s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.001591s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000333s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000623s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004520s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000496s ]
+[ 2012-09-22T16:09:36+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000560s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.001462s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001596s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000784s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000872s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 27 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.061551s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 35 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | SQL: SELECT `id`,`f_cata`,`s_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` WHERE f_id!='0'  [ RunTime:0.014709s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.010924s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.011022s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 103 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 115 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 121 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.097750s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.097829s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.000621s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.000753s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000389s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000640s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002577s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000598s ]
+[ 2012-09-22T16:09:42+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000658s ]
+[ 2012-09-22T16:09:43+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.000991s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001092s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000584s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000646s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.048599s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.016510s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002454s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000495s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.042919s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.014025s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.014147s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.045313s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.045719s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000607s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000518s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000513s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002056s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.001332s ]
+[ 2012-09-22T16:09:44+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.001425s ]
+[ 2012-09-22T16:09:47+08:00 ] /xxx2/admin.php/Article/%7B/xxx2/admin.php/Article/select%7D?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | ERR: (ThinkException) 非法操作{
+[ 2012-09-22T16:09:47+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.001174s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001281s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000847s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000927s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.002561s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.000418s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002276s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000481s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000443s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.000911s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.000986s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.014904s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015015s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000658s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000630s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000382s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000643s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002488s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000673s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000752s ]
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/%7B/xxx2/admin.php/Article/select%7D?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | ERR: (ThinkException) 非法操作{
+[ 2012-09-22T16:18:10+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run CheckRoute Behavior [ RunTime:0.000910s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001023s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000620s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000686s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 27 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002678s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined index: id ArticleAction.class.php 第 35 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | SQL: SELECT `id`,`f_cata`,`s_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` WHERE f_id!='0'  [ RunTime:0.000475s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001028s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001119s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 103 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 115 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 121 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ParseTemplate Behavior [ RunTime:0.011806s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011888s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ContentReplace Behavior [ RunTime:0.000460s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run TokenBuild Behavior [ RunTime:0.000946s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000343s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000568s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002520s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000519s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000582s ]
+[ 2012-09-22T16:18:12+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.000902s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001009s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000575s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000638s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.002316s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.000548s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002471s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000350s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000597s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.000507s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.000574s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.014204s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014313s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.001224s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000500s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000248s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000513s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002679s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000545s ]
+[ 2012-09-22T16:18:19+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000624s ]
+[ 2012-09-22T16:18:20+08:00 ] /xxx2/admin.php/Article/%7B/xxx2/admin.php/Article/select%7D?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | ERR: (ThinkException) 非法操作{
+[ 2012-09-22T16:18:20+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run CheckRoute Behavior [ RunTime:0.001058s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001182s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000615s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000681s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 27 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002097s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.003219s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | SQL: SELECT * FROM `think_cata` WHERE id=25 LIMIT 1   [ RunTime:0.072440s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | SQL: SELECT * FROM `think_cata` WHERE id='25' LIMIT 1   [ RunTime:0.000355s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | SQL: SELECT `id`,`f_cata`,`s_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` WHERE s_cata='11'  [ RunTime:0.000291s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run LocationTemplate Behavior [ RunTime:0.000564s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000636s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run ParseTemplate Behavior [ RunTime:0.011801s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011877s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run ContentReplace Behavior [ RunTime:0.000449s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run TokenBuild Behavior [ RunTime:0.000484s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000247s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run ShowRuntime Behavior [ RunTime:0.000507s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001860s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000453s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/25 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000513s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.000932s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001053s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000662s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000736s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 27 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002821s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | SQL: SELECT `id`,`f_cata`,`s_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` WHERE f_id!='0'  [ RunTime:0.000564s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000643s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000723s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: username 6a0fa1355e20b485f823227ab394fc93.php 第 34 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 103 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 115 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: article_item 6a0fa1355e20b485f823227ab394fc93.php 第 121 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.013409s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013489s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000486s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000500s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000281s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000671s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002172s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.001001s ]
+[ 2012-09-22T16:18:39+08:00 ] /xxx2/admin.php/Article/index/id/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.001109s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.001361s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001496s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000863s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000934s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.003268s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.000758s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002407s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001283s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000506s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.000904s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.000975s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.028625s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028761s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000753s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000785s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000507s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000704s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002983s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000688s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000764s ]
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/%7B/xxx2/admin.php/Article/select%7D?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | ERR: (ThinkException) 非法操作{
+[ 2012-09-22T16:19:00+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.000944s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001073s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000632s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000695s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.002416s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.000437s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002814s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.001024s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000609s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.000494s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.000562s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.014895s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015030s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000665s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000758s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000275s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000537s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002459s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000703s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000801s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run CheckRoute Behavior [ RunTime:0.001232s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --END-- [ RunTime:0.001434s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000875s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000962s ]
+[ 2012-09-22T16:19:58+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.001230s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001353s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000881s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000954s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.002859s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.000432s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002961s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000507s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000589s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.001699s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.001790s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.014319s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014432s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000667s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000639s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000396s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000652s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002530s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000703s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000785s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run CheckRoute Behavior [ RunTime:0.001018s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --END-- [ RunTime:0.001373s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000756s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000838s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003169s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SELECT * FROM `think_catalog` WHERE f_cata=课程介绍 LIMIT 1   [ RunTime:0.012578s ]
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | NOTIC: [2] mysql_fetch_array() expects parameter 1 to be resource, boolean given ArticleAction.class.php 第 19 行.
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | NOTIC: [8] Undefined variable: select ArticleAction.class.php 第 22 行.
+[ 2012-09-22T16:24:07+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.000889s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001010s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000578s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000639s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 59 行.
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.002305s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.004279s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002512s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000533s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000529s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.000488s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.000557s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.015406s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015512s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000515s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.000507s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000244s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000549s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002000s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000598s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000678s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run CheckRoute Behavior [ RunTime:0.001047s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --END-- [ RunTime:0.001199s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004686s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004864s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003879s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SELECT * FROM `think_catalog` WHERE f_cata=课程介绍 LIMIT 1   [ RunTime:0.000677s ]
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | NOTIC: [2] mysql_fetch_array() expects parameter 1 to be resource, boolean given ArticleAction.class.php 第 19 行.
+[ 2012-09-22T16:24:28+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Run CheckRoute Behavior [ RunTime:0.001112s ]
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001221s ]
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000592s ]
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000655s ]
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002264s ]
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | SQL: SELECT * FROM `think_catalog` WHERE f_cata=22 LIMIT 1   [ RunTime:0.058632s ]
+[ 2012-09-22T16:24:31+08:00 ] /xxx2/admin.php/Article/select?selType=22 | NOTIC: [2] mysql_fetch_array() expects parameter 1 to be resource, boolean given ArticleAction.class.php 第 19 行.
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | INFO: Run CheckRoute Behavior [ RunTime:0.000906s ]
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001019s ]
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000603s ]
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000671s ]
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002904s ]
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | SQL: SELECT * FROM `think_catalog` WHERE f_cata=33 LIMIT 1   [ RunTime:0.001464s ]
+[ 2012-09-22T16:24:34+08:00 ] /xxx2/admin.php/Article/select?selType=33 | NOTIC: [2] mysql_fetch_array() expects parameter 1 to be resource, boolean given ArticleAction.class.php 第 19 行.
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run CheckRoute Behavior [ RunTime:0.001231s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ route_check ] --END-- [ RunTime:0.001355s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000805s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000873s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) ArticleAction.class.php 第 60 行.
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_cata` [ RunTime:0.002289s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT COUNT(*) AS tp_count FROM `think_cata` LIMIT 1   [ RunTime:0.000578s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002202s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT * FROM `think_catalog` WHERE f_id=0  [ RunTime:0.000587s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | SQL: SELECT `id`,`title`,`Catalog`,`user`,`title`,`dt` FROM `think_cata` ORDER BY id desc LIMIT 0,8   [ RunTime:0.000643s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run LocationTemplate Behavior [ RunTime:0.000954s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_template ] --END-- [ RunTime:0.001032s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ParseTemplate Behavior [ RunTime:0.014876s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014985s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ContentReplace Behavior [ RunTime:0.000709s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run TokenBuild Behavior [ RunTime:0.001196s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000479s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowRuntime Behavior [ RunTime:0.000673s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003256s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\ArticleAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Run ShowPageTrace Behavior [ RunTime:0.000667s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/lis | INFO: Tag[ view_end ] --END-- [ RunTime:0.000892s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run CheckRoute Behavior [ RunTime:0.001590s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ route_check ] --END-- [ RunTime:0.001755s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001080s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001194s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.003273s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SELECT * FROM `think_catalog` WHERE f_cata=课程介绍 LIMIT 1   [ RunTime:0.014503s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/select?selType=%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D | SQL: SELECT * FROM `think_catalog` WHERE f_id= LIMIT 1   [ RunTime:0.000387s ]
+[ 2012-09-22T16:27:16+08:00 ] /xxx2/admin.php/Article/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Run CheckRoute Behavior [ RunTime:0.001058s ]
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001183s ]
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001186s ]
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001265s ]
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.002891s ]
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | SQL: SELECT * FROM `think_catalog` WHERE f_cata=22 LIMIT 1   [ RunTime:0.000459s ]
+[ 2012-09-22T16:27:19+08:00 ] /xxx2/admin.php/Article/select?selType=22 | SQL: SELECT * FROM `think_catalog` WHERE f_id=14 LIMIT 1   [ RunTime:0.000505s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run CheckRoute Behavior [ RunTime:0.000907s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001016s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000577s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000640s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run LocationTemplate Behavior [ RunTime:0.018494s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.018635s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ParseTemplate Behavior [ RunTime:0.063697s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.063816s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ContentReplace Behavior [ RunTime:0.000431s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run TokenBuild Behavior [ RunTime:0.000468s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000257s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000497s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001825s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000461s ]
+[ 2012-09-22T23:10:47+08:00 ] /xxx2/admin.php/Login/index/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000522s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Common/verify | INFO: Run CheckRoute Behavior [ RunTime:0.001015s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.001136s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Common/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000606s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Common/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000669s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.000929s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001035s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000736s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000844s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000834s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000930s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.019155s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019266s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000631s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000671s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000425s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000661s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002597s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\LoginAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000628s ]
+[ 2012-09-22T23:10:48+08:00 ] /xxx2/admin.php/Login/index/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000691s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run CheckRoute Behavior [ RunTime:0.000880s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ route_check ] --END-- [ RunTime:0.000993s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000574s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000637s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 12 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run LocationTemplate Behavior [ RunTime:0.033858s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_template ] --END-- [ RunTime:0.033986s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ParseTemplate Behavior [ RunTime:0.059639s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_parse ] --END-- [ RunTime:0.059740s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ContentReplace Behavior [ RunTime:0.000634s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run TokenBuild Behavior [ RunTime:0.000544s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000397s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ShowRuntime Behavior [ RunTime:0.000688s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002451s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Run ShowPageTrace Behavior [ RunTime:0.000681s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/aa | INFO: Tag[ view_end ] --END-- [ RunTime:0.000755s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run CheckRoute Behavior [ RunTime:0.000891s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ route_check ] --END-- [ RunTime:0.001000s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000595s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000668s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 12 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run LocationTemplate Behavior [ RunTime:0.000429s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_template ] --END-- [ RunTime:0.000512s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [8] Undefined variable: title 4c18d5952d0dbf1eedb8a1ec796fa788.php 第 5 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ParseTemplate Behavior [ RunTime:0.010032s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010113s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ContentReplace Behavior [ RunTime:0.000425s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run TokenBuild Behavior [ RunTime:0.000419s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000321s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowRuntime Behavior [ RunTime:0.000568s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001934s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\admin\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --START--
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Run ShowPageTrace Behavior [ RunTime:0.000505s ]
+[ 2012-09-22T23:10:58+08:00 ] /xxx2/admin.php/Index/index/username/resources/images/closelabel.gif | INFO: Tag[ view_end ] --END-- [ RunTime:0.000568s ]

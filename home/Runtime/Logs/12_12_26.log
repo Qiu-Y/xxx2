@@ -1,0 +1,121 @@
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --START--
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.014588s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.020619s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 6 行.
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.149070s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | SQL: SELECT `id`,`f_cata` FROM `think_catalog` WHERE f_id=0 ORDER BY id asc  [ RunTime:0.013089s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_link` [ RunTime:0.085587s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | SQL: SELECT `id`,`addr`,`info` FROM `think_link` ORDER BY id desc  [ RunTime:0.017689s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | SQL: SHOW COLUMNS FROM `think_tongzhi` [ RunTime:0.058197s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | SQL: SELECT `id`,`title`,`content`,`name`,`dt` FROM `think_tongzhi` ORDER BY id desc  [ RunTime:0.000429s ]
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: username functions.php 第 441 行.
+[ 2012-12-26T19:11:39+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --START--
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run LocationTemplate Behavior [ RunTime:0.056194s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.056304s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --START--
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: addr d046431aa157c89f3a1c30c426be003b.php 第 127 行.
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: addr d046431aa157c89f3a1c30c426be003b.php 第 128 行.
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | NOTIC: [8] Undefined index: addr d046431aa157c89f3a1c30c426be003b.php 第 129 行.
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run ParseTemplate Behavior [ RunTime:0.106884s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.107083s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --START--
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run ContentReplace Behavior [ RunTime:0.004475s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run TokenBuild Behavior [ RunTime:0.002371s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004332s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001840s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013602s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --START--
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001717s ]
+[ 2012-12-26T19:11:40+08:00 ] /xxx2/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001810s ]
+[ 2012-12-26T20:55:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --START--
+[ 2012-12-26T20:55:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run CheckRoute Behavior [ RunTime:0.010887s ]
+[ 2012-12-26T20:55:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.011018s ]
+[ 2012-12-26T20:55:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --START--
+[ 2012-12-26T20:55:36+08:00 ] /xxx2/index.php/Index/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001873s ]
+[ 2012-12-26T20:55:36+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001963s ]
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] A session had already been started - ignoring session_start() IndexAction.class.php 第 75 行.
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) IndexAction.class.php 第 76 行.
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_login` [ RunTime:0.195334s ]
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_login` WHERE username='admin' and pwd='21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.155317s ]
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.255777s ]
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | SQL: SELECT * FROM `think_teacher` WHERE username='admin' and pwd='admin' LIMIT 1   [ RunTime:0.001904s ]
+[ 2012-12-26T20:55:37+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Undefined index: logins IndexAction.class.php 第 98 行.
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | SQL: UPDATE `think_login` SET `id`='1',`username`='admin',`pwd`='admin',`name`='朱全银',`phone`='2',`qq`='3' WHERE username='admin' [ RunTime:0.365293s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant username - assumed 'username' IndexAction.class.php 第 100 行.
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | NOTIC: [8] Use of undefined constant shenfen - assumed 'shenfen' IndexAction.class.php 第 101 行.
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --START--
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run LocationTemplate Behavior [ RunTime:0.085927s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.086064s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --START--
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run ParseTemplate Behavior [ RunTime:0.297511s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.297633s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --START--
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run ContentReplace Behavior [ RunTime:0.109223s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run TokenBuild Behavior [ RunTime:0.025068s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.018406s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowRuntime Behavior [ RunTime:0.014035s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.167044s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 120 行.
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 121 行.
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\IndexAction.class.php:1) View.class.php 第 122 行.
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --START--
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.032192s ]
+[ 2012-12-26T20:55:38+08:00 ] /xxx2/index.php/Index/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.032340s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --START--
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run CheckRoute Behavior [ RunTime:0.001221s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001332s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --START--
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000776s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000843s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) ShowAction.class.php 第 8 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | SQL: SHOW COLUMNS FROM `think_catalog` [ RunTime:0.079640s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | SQL: SELECT `id`,`f_cata`,`isf`,`f_id`,`p_id` FROM `think_catalog` ORDER BY id asc  [ RunTime:0.002312s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: link_list ShowAction.class.php 第 16 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: tongzhi_list ShowAction.class.php 第 18 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --START--
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run LocationTemplate Behavior [ RunTime:0.040150s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.040270s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --START--
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [8] Undefined variable: count 4114fbf5f7e547e5b806b05cdf8d53ce.php 第 52 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ParseTemplate Behavior [ RunTime:0.184301s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.184385s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --START--
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ContentReplace Behavior [ RunTime:0.000584s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run TokenBuild Behavior [ RunTime:0.000513s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000356s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001179s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002844s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --START--
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000656s ]
+[ 2012-12-26T20:55:40+08:00 ] /xxx2/index.php/Show/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000722s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/resources/images/closelabel.gif | ERR: (ThinkException) 非法操作resources
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ route_check ] --START--
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run CheckRoute Behavior [ RunTime:0.001418s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ route_check ] --END-- [ RunTime:0.001598s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ app_begin ] --START--
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000881s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000975s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_template ] --START--
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run LocationTemplate Behavior [ RunTime:0.004934s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_template ] --END-- [ RunTime:0.005073s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_parse ] --START--
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run ParseTemplate Behavior [ RunTime:0.158486s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_parse ] --END-- [ RunTime:0.158783s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_filter ] --START--
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run ContentReplace Behavior [ RunTime:0.000692s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run TokenBuild Behavior [ RunTime:0.004195s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000738s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run ShowRuntime Behavior [ RunTime:0.000687s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006589s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 120 行.
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 121 行.
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\XAMPP\xampp\htdocs\xxx2\home\Lib\Action\ShowAction.class.php:1) View.class.php 第 122 行.
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_end ] --START--
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Run ShowPageTrace Behavior [ RunTime:0.000760s ]
+[ 2012-12-26T20:55:41+08:00 ] /xxx2/index.php/Show/welcome | INFO: Tag[ view_end ] --END-- [ RunTime:0.000839s ]

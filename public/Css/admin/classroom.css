@@ -1,0 +1,46 @@
+#content
+{
+	width:800px;	
+	height:450px;
+	border:1px solid #666;
+}
+#b_info p
+{
+	height:15px;
+	line-height:15px;
+	width:100%;
+		
+}
+#b_info p span
+{
+	width:100px;
+	font-size:14px;	
+	font-weight:bold;
+}
+#as_left
+{
+	width:300px;
+	height:100%;
+	float:left;	
+}
+#as_left textarea
+{
+	width:200px;
+	height:93%;
+	margin-left:10px;
+	margin-top:10px;
+}
+#add{
+	height:40px;
+	width:60px;	
+
+}
+#as_right{
+	width:300px;	
+	height:93%;
+	background:#FFF;
+	float:left;
+	margin-top:10px;
+	margin-left:40px;
+	border:1px solid #666;
+}

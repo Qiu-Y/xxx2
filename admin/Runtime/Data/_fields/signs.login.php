@@ -1,0 +1,2 @@
+<?php
+return array ( 0 => 'id', 1 => 'username', 2 => 'pwd', 3 => 'name', 4 => 'num', 5 => 'clas', 6 => 'sex', 7 => 'qq', 8 => 'mails', 9 => 'phone', 10 => 'addr', 11 => 'getpassword', 12 => 'ntime', 13 => 'logintimes', 14 => 's_img', '_autoinc' => true, '_pk' => 'id', ); ?>

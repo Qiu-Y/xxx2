@@ -1,0 +1,20 @@
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000642s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000756s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | SQL: SHOW COLUMNS FROM `think_article` [ RunTime:0.002436s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | SQL: SELECT `id`,`subject`,`message`,`createtime` FROM `think_article` ORDER BY id desc  [ RunTime:0.000425s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001004s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001105s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run ParseTemplate Behavior [ RunTime:0.009274s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009382s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run ContentReplace Behavior [ RunTime:0.000385s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run TokenBuild Behavior [ RunTime:0.000402s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000301s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000540s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001805s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000517s ]
+[ 2012-08-09T23:30:18+08:00 ] /xxx/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000580s ]
